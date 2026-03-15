@@ -1,7 +1,11 @@
-<img src="https://i.pinimg.com/1200x/1a/62/f8/1a62f87f5d64bd7a5835c06a0421b9cd.jpg" height=100 width=1000>
-<h3>🔗 sobre mim: </h3>
-▸ Estudante de Desenvolvimento de Sistemas.
-<br>▸ Foco em Python, HTML, CSS, Java. 
-<hr>
-<p> ✉️ contato: mtteocarvalho@gmail.com</p>
+![alt](https://i.pinimg.com/1200x/89/c7/77/89c7771faf42b3aa7ba0d8055a52cb41.jpg)
 
+### 🔗 sobre mim: 
+▸ Estudante de Desenvolvimento de Sistemas.
+
+▸ Python, HTML, CSS, Java. 
+
+## ✉️ contato:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://br.linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com)
+ 

@@ -3,7 +3,7 @@
 ### 🔗 sobre mim: 
 ▸ Estudante de Desenvolvimento de Sistemas.
 
-▸ Python, HTML, CSS, Java. 
+▸ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white), ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
 
 ## ✉️ contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://br.linkedin.com)
